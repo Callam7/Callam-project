@@ -1,0 +1,5 @@
+Sprint Plan:
+
+For the next two weeks, I plan on making sure that my blurb is up on IOT site, which would be moy first task. 
+Secondly, I will be having multiple meetings with the dev ops team to ensure that our services (i.e. Lora Server) is up and running.
+Furthermore, I will work on disassembling the gateway to make way fior new components. 
