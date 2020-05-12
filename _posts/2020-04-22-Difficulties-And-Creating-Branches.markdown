@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Difficulties & Created Branches"
-date:   2020-04-22:18:04 +1200
+date:   2020-04-22 1:18:04 +1200
 categories: General
 ---
 
