@@ -8,7 +8,7 @@ categories: General
 After some consistant testing, I have now managed to get the gauge chart to have a response
 as data can now be recieved and displayed in-line with the selected devices.
 
-<img src= "{{site.baseurl}}/assets/Images/responseSuccess.PNG" alt = "success">
+<img src= "{{site.baseurl}}/assets/Images/responseSuccess.PNG" alt = "Success">
 
 The problem was that I needed to have the #Device.val() assigned to the dev_id inside the ajax calls.
 
