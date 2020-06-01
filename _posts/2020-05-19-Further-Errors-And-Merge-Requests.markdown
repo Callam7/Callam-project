@@ -8,7 +8,7 @@ categories: General
 After some investigation into the console side of the c02 graph, I have discovered that for some strange
 reason the gauge_data file does not seem to be sending/recieving any data whatsoever. 
 
-   <img src= "{{site.baseurl}}/assets/Images/nullError.PNG" alt = "null">
+   <img src= "{{site.baseurl}}/assets/Images/nullError.PNG" alt = "error">
 
 For this to properly function, I have continued to research around json encoding within a function to
 determine if my code is actually achieving its functionality in the first place.
