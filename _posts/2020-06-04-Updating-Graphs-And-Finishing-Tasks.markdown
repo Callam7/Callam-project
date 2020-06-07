@@ -35,7 +35,7 @@ My original idea was to incorperate a responsive design using bootstrap and ajav
 call and the json data retrieval. I did also find some odd payload outputs for each device within the database, of which I raised some concerns
 about to the other team members: 
 
-<img src= "{{site.baseurl}}/assets/Images/payloadOutputErrors.PNG" alt = "Weird Payloads">
+<img src= "{{site.baseurl}}/assets/Images/payloadOutputErrrors.PNG" alt = "Weird Payloads">
 
 However, based upon the dates that each reading had been outputted, these concerns did not seem too critical at the time.
 
