@@ -1,16 +1,17 @@
-Posts will differ between Studio 5 and Project 2
-------------------------------------------------
-
-# Studio 5 - Posts will include details around researching machine learning and 
+# Studio 5
+------------------------------------------------------------------ 
+Posts will include details around researching machine learning and 
 the general behaviours of a typical robot. This will include:
 
 - Eye tracking applications
 - Track-motor interaction
 - Investigating the application use of Hydraulic mechanisms
 - Researching around the robot's open source documentation
+------------------------------------------------------------------
 
-
-# Project 2 -  Posts will relate heavily with the construction of the robot, specifically dubbed
+# Project 2
+--------------------------------------------------------------------------------- 
+Posts will relate heavily with the construction of the robot, specifically dubbed
 "Johnny 5" from the movie Short Circuit. This will include but is not limited to:
 
 - Construction of 3-D designed parts
