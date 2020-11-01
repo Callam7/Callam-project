@@ -13,7 +13,7 @@ the general concept will be that it will operate via the use of machine learning
  with no assistance whatsoever, meaning that it will be completely self-driven.
 Below is a concept design of what I would roughly like to implement.
 
- <img src= "{{site.baseurl}}/assets/Images/bluePrint.JPG" alt = "alive and well">
+ <img src= "{{site.baseurl}}/assets/Images/bluePrint.jpg" alt = "alive and well">
 
 Furthermore, I have made a compromise on Studio 5 and Project 2. Studio 5 will be for me to research and implement the
 software that is required to run Johnny 5 (i.e. a One-To-Many relationship between devices), of which will require heavy documentation
