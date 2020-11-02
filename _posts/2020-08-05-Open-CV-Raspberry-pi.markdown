@@ -18,7 +18,7 @@ For the movement portion of the robot, I will be using the python library Open C
 and have the robot "chase" the object until they reach a certain distance from them. The distance will be determined through a series of echo sensors attached to the base of the 
 tracks so that it will know not to hit anything.
 
-    <img src= "{{site.baseurl}}/assets/Images/echoSensors.jpg" alt = "echo">
+   <img src= "{{site.baseurl}}/assets/Images/echoSensors.jpg" alt = "echo">
 
 
 For starters, I will be going through the Open CV application to determine how the library should be installed and how to interact with it. Thankfully, as I have 
