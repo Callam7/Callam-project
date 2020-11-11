@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "3D Success And Glyph Problems"
 date:   2020-08-20 1:18:04 +1200
